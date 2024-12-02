@@ -512,7 +512,7 @@ const App: React.FC = () => {
                 </i>
               </div>
             </div>
-            <div className="grid gap-7 md:grid-cols-4 lg:w-[70%] lg:justify-between lg:">
+            <div className="grid gap-7 md:grid-cols-4 lg:w-[70%] lg:justify-between">
               <ul className="flex flex-col gap-2">
                 <li className="mb-3">
                   <h2 className="font-semibold text-lg">Company</h2>
